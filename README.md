@@ -1,4 +1,4 @@
 # DiscordRPC_State
-Custom your Discord state
+輕鬆自訂Discord的個人訊息
 
 準備中
