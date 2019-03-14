@@ -14,4 +14,4 @@ Python 3.3+
 2.`config.sample.toml`是設定檔，請用文字編輯器進入修改，並重新命名為`config.toml`(預設讀取`config.toml`)
 3.請用系統管理員權限打開DiscordRPC.exe
 
-![image](screenshot.png)
+![image](https://i.imgur.com/EClxL24.png)
