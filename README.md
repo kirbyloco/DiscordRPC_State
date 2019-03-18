@@ -4,6 +4,8 @@
 # 需要：
 Python 3.3+
 
+# 目前以下的步驟是給以後的版本使用的
+
 # 安裝步驟
 1. 使用`pip install -r requirements.txt`安裝第三方套件
 2. `config.sample.toml`是設定檔，請用文字編輯器進入修改，並重新命名為`config.toml`(預設讀取`config.toml`)
