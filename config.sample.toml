@@ -2,8 +2,8 @@
 id = 
 
 [contect] #請按照需求修改
-state = "歡迎到kltw.ml坐坐喔"
 details = "我真的沒有玩蘿莉"
+state = "歡迎到kltw.ml坐坐喔"
 large_image = "44307593_p0"
 large_text = "我是耀風在測試的BOT喔"
 small_image = "44307593_p0"

@@ -1,4 +1,3 @@
 pypresence
 toml
-sys
 os
